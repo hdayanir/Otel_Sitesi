@@ -1,0 +1,309 @@
+@charset "utf-8";
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+.dıs {
+	width: 1349px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.banner {
+	float: left;
+	height: 128px;
+	width: 1349px;
+	background-image: url(../images/arkaplan.png);
+	background-repeat: no-repeat;
+}
+.logo {
+	background-image: url(../images/logo.png);
+	float: left;
+	height: 128px;
+	width: 460px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.menu {
+	float: left;
+	height: 128px;
+	width: 889px;
+}
+.ustalan {
+	float: left;
+	height: 28px;
+	width: 889px;
+}
+.altalan {
+	float: left;
+	height: 100px;
+	width: 889px;
+}
+.haberler {
+	float: left;
+	height: 25px;
+	width: 160px;
+	margin-left: 340px;
+	background-image: url(../images/haberler.png);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.foto_galeri {
+	float: left;
+	height: 25px;
+	width: 160px;
+	background-image: url(../images/foto_galeri.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+.rezarvasyon {
+	float: left;
+	height: 25px;
+	width: 160px;
+	background-image: url(../images/rezervasyon.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.acıklama {
+	float: left;
+	height: 50px;
+	width: 490px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 10px;
+	background-image: url(../images/ac%C4%B1klama.png);
+}
+.sosyalmedya {
+	float: left;
+	height: 50px;
+	width: 360px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 20px;
+}
+.facebook {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/facebook.png);
+	background-repeat: no-repeat;
+	margin-left: 30px;
+}
+.twitter {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/twitter.png);
+	background-repeat: no-repeat;
+}
+.google {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/google.png);
+	background-repeat: no-repeat;
+}
+.youtube {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/youtube.png);
+	background-repeat: no-repeat;
+}
+.gmail {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/email.png);
+	background-repeat: no-repeat;
+}
+.rss {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-image: url(../images/rss.png);
+	background-repeat: no-repeat;
+}
+.menu_alan {
+	float: left;
+	height: 37px;
+	width: 1349px;
+	background-color: #E1DEE2;
+}
+.menu_icerik {
+	background-color: #E1DEE2;
+	height: 37px;
+	width: 724px;
+	margin-right: 314px;
+	margin-left: 315px;
+}
+.menu_alan .menu_icerik ul {
+	margin: 0px;
+	padding: 0px;
+}
+.menu_alan .menu_icerik ul li {
+	list-style-type: none;
+	float: left;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	width: 115px;
+	margin-top: 10px;
+	padding-right: 5px;
+}
+.menu_alan .menu_icerik ul li a {
+	display: block;
+	text-decoration: none;
+	color: #666;
+}
+.slider {
+	height: 500px;
+	width: 1349px;
+	background-image: url(../images/slidr.jpg);
+	float: left;
+}
+.icerik {
+	float: left;
+	height: 595px;
+	width: 1349px;
+	margin-top: 15px;
+}
+.icerik1 {
+	float: left;
+	height: 246px;
+	width: 918px;
+	margin-right: 214px;
+	margin-left: 216px;
+	background-image: url(../images/arkaplan1.png);
+}
+.footer {
+	background-color: #03F;
+	float: left;
+	height: 291px;
+	width: 1349px;
+	background-image: url(../images/footer.jpg);
+	background-repeat: no-repeat;
+}
+.mavalan {
+	float: left;
+	height: 235px;
+	width: 288px;
+	margin-right: 27px;
+	background-image: url(../images/mavialan.png);
+	background-repeat: no-repeat;
+}
+.turalan {
+	background-image: url(../images/turuncualan.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 235px;
+	width: 288px;
+	margin-right: 27px;
+}
+.mavalan1 {
+	background-image: url(../images/mavialan2.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 235px;
+	width: 288px;
+}
+.mavdetay {
+	background-image: url(../images/mavidevamalan%C4%B11.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 42px;
+	width: 97px;
+	margin-left: 185px;
+	margin-top: 5px;
+
+}
+.turdetay {
+	background-image: url(../images/turuncudevamalan%C4%B1.png);
+	float: left;
+	height: 37px;
+	width: 167px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.mavdetay1 {
+	background-image: url(../images/mavidevamalan%C4%B12.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 42px;
+	width: 97px;
+	margin-left: 6px;
+	margin-top: 5px;
+}
+.mavbaslık {
+	float: left;
+	height: 39px;
+	width: 288px;
+}
+.mavicerik {
+	float: left;
+	height: 130px;
+	width: 288px;
+}
+.turbaslık {
+	float: left;
+	height: 39px;
+	width: 288px;
+}
+.turicerik {
+	float: left;
+	height: 130px;
+	width: 288px;
+}
+.mavbaslık1 {
+	float: left;
+	height: 39px;
+	width: 288px;
+}
+.mavicerik1 {
+	float: left;
+	height: 130px;
+	width: 288px;
+}
+.icerikarkaplan {
+	background-image: url(../images/icerikarkaplan.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 585px;
+	width: 1002px;
+	margin-right: 173.5px;
+	margin-left: 173.5px;
+}
+.otelicerikarkaplan {
+	background-image: url(../images/otell.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 585px;
+	width: 1002px;
+	margin-right: 173.5px;
+	margin-left: 173.5px;
+}
+.duyurulararkaplan {
+	float: left;
+	height: 585px;
+	width: 1002px;
+	margin-right: 173.5px;
+	margin-left: 173.5px;
+	background-image: url(../images/duyurular.png);
+}
+.iletisimarkaplan {
+	background-image: url(../images/iletisim.png);
+	float: left;
+	height: 585px;
+	width: 1002px;
+	margin-right: 173.5px;
+	margin-left: 173.5px;
+}
